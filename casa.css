@@ -1,0 +1,129 @@
+body{
+    font-family: tahoma;
+}
+
+.introduçao{
+    text-align: center;
+    background-color: rgb(85, 121, 238);
+}
+.link-topo{
+font-size: 30px;
+padding-left: 30px;
+margin-top: 50px;
+}
+.logo{
+    margin: 80px;
+}
+.sobre1{
+    text-align: center;
+    font-size: 23px;
+}
+.sobre01{
+font-size: 18px;
+text-align: center;
+text-align: justify;
+padding-left: 250px;
+padding-right: 250px;
+margin-bottom: 90px;
+}
+.imagem3{
+    width: 670px;
+    margin: 80px;
+}
+
+.imagem2{
+    text-align: center;
+    width: 1300px;
+    padding: 80px;
+    margin-left: 50px;
+}
+.imagemcasa
+
+.h12{
+    font-size: 35px;
+}
+.blue{
+    color: rgb(41, 44, 223);
+}
+.serviço1{
+background-color:rgb(85, 121, 238);
+text-align: center;
+font-size: 20px ;
+padding-left: 400px;
+padding-right: 400px;
+color: white;
+} 
+.classe{
+    color: white;
+    margin-top: 50px;
+    padding-left: 350px;
+    padding-right: 750px;
+    font-size: 23px;
+    margin-bottom: 50px;
+    line-height: 40px;
+}
+.corretor{
+    text-align: center;
+    h1{
+        font-size: 40px;
+        text-align: center;
+        color: rgb(41, 44, 223);
+    }
+    img{
+        width: 700px;
+        margin: 80px;
+    }
+    p{
+        font-size: 23px;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+}
+.contato1{
+    text-align: center;
+    h1{
+        text-align: center;
+        font-size: 45px;
+        line-height: 40px;
+        margin-bottom: 50px;
+    }
+    .link2{
+        text-align: center;
+    }
+    background-color:rgb(85, 121, 238);
+    p{
+        text-align: center;
+        font-size: 23px;
+        background-color: black;
+        color: white;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin: 90px;
+    }
+    .links1{
+background-color: white;
+color: black;
+font-size: 20px;
+line-height: 40px;
+font-family: 'Times New Roman', Times, serif;
+text-decoration: none;
+    }
+    .links2{
+background-color: white;
+color: black;
+font-size: 20px;
+line-height: 40px;
+font-family: 'Times New Roman', Times, serif;
+text-decoration: none;
+    }
+    .links3{
+background-color: white;
+color: black;
+font-size: 20px;
+line-height: 40px;
+font-family: 'Times New Roman', Times, serif;
+text-decoration: none;
+    }
+}
+
+
